@@ -49,3 +49,7 @@ proper 12V->5V regulator, never straight onto 5V.
 2. `CS_PIN_CAN0` not matching your wiring (must be 10 on Arduino).
 
 Either one -> `7F3E03 / connection lost`.
+
+## Full build manual
+Wiring, bill of materials, ESP32 variant and troubleshooting:
+[docs/PSA-Diag-Cable-Manual.pdf](docs/PSA-Diag-Cable-Manual.pdf)
